@@ -7,4 +7,3 @@ Approaching the Limit of Predictability" in IEEE transactions on
 knowledge and data engineering (TKDE), 2019.
 
 Examples of usage are shown in PredictabilityAndEntropy.ipynb notebook.
-
