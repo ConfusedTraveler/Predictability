@@ -53,6 +53,7 @@ def Real_Entropy(timeseries):
         Output:
             True if asublist is in alist, False otherwise
         """
+        # 将列表中的number转换为字符并连接成一个字符串，便于后续的子串匹配
         alist = "".join(map(str, alist))
         asublist = "".join(map(str, asublist))
         if asublist in alist:
